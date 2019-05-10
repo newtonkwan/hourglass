@@ -1,4 +1,4 @@
-# Duke Minutes
+# Hourglass
 A no-nonsense, minute by minute visualization of my life as a student at Duke University
 
 ## Motivation 
